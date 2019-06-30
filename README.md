@@ -21,5 +21,12 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Build local
+
+```
+bundle install
+rails db:migrate
+rails s
+```
+
 # rails_hello
